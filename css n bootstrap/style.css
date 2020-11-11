@@ -1,0 +1,50 @@
+.container{
+  border: 0px solid black;
+  min-height: 80%;
+  text-align: center;
+
+}
+.row {
+  border:0px solid red;
+
+}
+.col-8{
+  border: 0px solid grey;
+}
+.col-4{
+  border: 0px solid grey;
+}
+.row ul{
+
+  list-style: none;
+
+}
+h1{
+  text-align: center;
+}
+body{
+  background: grey;
+}
+#HEADER{
+  text-align: center;
+  background:brown;
+
+}
+#NAV{
+  text-align: center;
+  background:black;
+
+}
+#CONTENT{
+  background: white;
+}
+#SIDEBAR{
+  background:lightblue;
+}
+#FOOT{
+  background:brown;
+}
+#NAV ul li{
+  display:inline-block;
+  paddin-left:2px;
+}
